@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Starter" title="Javascript Starter"src="https://pt.wikipedia.org/wiki/JavaScript#/media/Ficheiro:Unofficial_JavaScript_logo_2.svg" width="200px" />
+    <img alt="Starter" title="Javascript Starter"src=".github/Ficheiro:Unofficial_JavaScript_logo_2.svg" width="200px" />
 </h1>
 
 <h3 align="center">
